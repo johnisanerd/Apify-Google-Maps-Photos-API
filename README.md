@@ -250,4 +250,4 @@ Ready-to-run examples on the Apify Store, each targeting one local-data use case
 - [Generate local leads in Claude via Google Maps MCP](https://apify.com/johnvc/google-maps-photos-api/examples/generate-local-leads-in-claude-via-google-maps-mcp?fpr=9n7kx3)
 - [Export Google Maps Places to CSV](https://apify.com/johnvc/google-maps-photos-api/examples/export-google-maps-places-to-csv?fpr=9n7kx3)
 
-Last Updated: 2026.09.20
+Last Updated: 2026.09.21
